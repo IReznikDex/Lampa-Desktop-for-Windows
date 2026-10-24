@@ -10,6 +10,9 @@
 **Метод разработки:** Vibe Coding
 
 ---
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/daba3ff3-307b-49d4-b4bc-f0d359c02368" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/d1b70ad4-11ee-442d-87e8-b239da87f226" />
+<img width="1915" height="1031" alt="image" src="https://github.com/user-attachments/assets/5186b8fe-c22e-463b-be4e-9c23b2e05bb0" />
 
 ## О проекте
 
